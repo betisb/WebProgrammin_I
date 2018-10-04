@@ -1,0 +1,20 @@
+1538443117625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yWMGhkUu0VTX"
+1538443120545	Marionette	INFO	Listening on port 34681
+1538443120668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538443120733	Marionette	DEBUG	[2147483649] Frame script loaded
+1538443120739	Marionette	DEBUG	[2147483649] Frame script registered
+1538443120767	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538443121141	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538443122774	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.python.org/
+1538443124251	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.python.org/
+1538443124429	Marionette	INFO	Stopped listening on port 34681
+1538443135846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MNJWQufgxh3c"
+1538443138177	Marionette	INFO	Listening on port 34991
+1538443138292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538443138377	Marionette	DEBUG	[2147483649] Frame script loaded
+1538443138383	Marionette	DEBUG	[2147483649] Frame script registered
+1538443138414	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538443138667	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538443139223	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.python.org/
+1538443139701	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.python.org/
+1538443139981	Marionette	INFO	Stopped listening on port 34991
