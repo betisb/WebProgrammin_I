@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 browser = webdriver.Chrome()
-browser.get("http://localhost:5000/login")
+browser.get("http://bbaheri.pythonanywhere.com/login")
 assert "Sign In" in browser.page_source
 assert "Username" in browser.page_source
 assert "Password" in browser.page_source
@@ -21,5 +21,7 @@ time.sleep(5)
 submit_button = browser.find_element_by_name("submit")
 submit_button.click()
 assert "Login requested" in browser.page_source
+assert "Beautiful day in Portland" in browser.page_source
+assert "How Are you?" in browser.page_source
 time.sleep(5)
 browser.close()
