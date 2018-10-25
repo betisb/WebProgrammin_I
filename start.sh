@@ -5,6 +5,8 @@ export FLASK_DEBUG=1
 #export MAIL_SERVER=smtp.googlemail.com
 #export MAIL_PORT=587
 #export MAIL_USE_TLS=1
-#export MAIL_USERNAME=
-#export MAIL_PASSWORD=
+#export MAIL_USERNAME=agneti2010
+#export MAIL_PASSWORD=zaq1@WSXcde
+export MAIL_SERVER=localhost
+export MAIL_PORT=1025
 flask run
