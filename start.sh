@@ -1,6 +1,6 @@
 export FLASK_APP=webprog.py
-#export FLASK_ENV=development
-#export FLASK_DEBUG=1
+export FLASK_ENV=development
+export FLASK_DEBUG=1
 #python -m smtpd -n -c DebuggingServer localhost:8025
 #export MAIL_SERVER=smtp.googlemail.com
 #export MAIL_PORT=587
